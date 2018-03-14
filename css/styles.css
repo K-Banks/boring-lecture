@@ -1,0 +1,13 @@
+.intro h2 {
+  color: #fa9374;
+}
+
+.intro p {
+  font-style: italic;
+}
+
+.intro img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
